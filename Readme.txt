@@ -1,7 +1,7 @@
 Name=Uttam Paharia
 Roll number=CS22BTECH11060
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This code is written in java to stimulate cache memory ;
+This code is written in java to simulate cache memory ;
 This code is to calculate:
 1.Number of Hits and Miss in any set
 2.Overall Hits and Miss
